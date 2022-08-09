@@ -17,4 +17,3 @@ public class Passenger
         number = -1;
     }
 }
-Footer
